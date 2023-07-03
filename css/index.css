@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Agdasima";
+  src: url("/Agdasima-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Agdasima", sans-serif;
+}
+
+.sectionContainer {
+  height: 90vh;
+}
+
+header {
+  height: 5vh;
+}
+
+footer {
+  height: 5vh;
+}/*# sourceMappingURL=index.css.map */
