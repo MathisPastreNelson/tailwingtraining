@@ -1,9 +1,3 @@
-@font-face {
-  font-family: "Agdasima";
-  src: url("/Agdasima-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
 * {
   margin: 0;
   padding: 0;
@@ -13,6 +7,12 @@ body {
   font-family: "Agdasima", sans-serif;
 }
 
+@font-face {
+  font-family: "Agdasima";
+  src: url("/Agdasima-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
 .sectionContainer {
   height: 90vh;
 }
