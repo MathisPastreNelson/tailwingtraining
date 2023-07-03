@@ -1,6 +1,6 @@
 <template>
   <section
-    class="sectionContainer flex justify-center items-center bg-lol text-yellow-50 text-5xl">
+    class="sectionContainer flex justify-center items-center tablet:bg-secondlol mobile:bg-secondlol bg-lol">
     Hello test
   </section>
 </template>
